@@ -1,0 +1,30 @@
+div.pub-list td {
+    text-align: left;
+}
+
+a.pub-list-award:link {
+    color: rgb(184, 64, 110);
+}
+
+a.pub-list-award:visited {
+    color: rgb(184, 64, 110);
+}
+ul.bio-list li{
+    text-align: left;
+}
+
+body {
+    background-color: #3d5a72 !important;
+    background-image: url("assets/css/images/overlay.png"), -moz-linear-gradient(45deg, #3d5a72 15%, #7db37b 85%) !important;
+    background-image: url("assets/css/images/overlay.png"), -webkit-linear-gradient(45deg, #3d5a72 15%, #7db37b 85%) !important;
+    background-image: url("assets/css/images/overlay.png"), -ms-linear-gradient(45deg, #3d5a72 15%, #7db37b 85%) !important;
+    background-image: url("assets/css/images/overlay.png"), linear-gradient(45deg, #3d5a72 15%, #7db37b 85%) !important;
+}
+
+#main header.major h2:after {
+    background-color: #dddddd;
+    background-image: -moz-linear-gradient(90deg, #3d5a72, #307a80, #50704f) !important;
+    background-image: -webkit-linear-gradient(90deg, #3d5a72, #307a80, #50704f) !important;
+    background-image: -ms-linear-gradient(90deg, #3d5a72, #307a80, #50704f) !important;
+    background-image: linear-gradient(90deg, #3d5a72, #307a80, #50704f) !important;
+}

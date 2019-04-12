@@ -1,0 +1,222 @@
+[
+    {
+        "title": "光線空間を用いた画素毎に独立したリフォーカシング",
+        "author": ["三原基", "浅田繁伸", "石原葵", "岩口尭史", "岡本貴典", "田中賢一郎", "久保尋之", "向川康博"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "平成26年 電気関係学会関西連合大会",
+        "booktitle": "電気関係学会関西連合大会, G13-7, 2014.11.",
+        "date": "2014-11-01"
+    },
+    {
+        "title": "光線空間を用いた不要物体除去リフォーカシング画像の生成",
+        "author": ["三原基", "岩口尭史", "田中賢一郎", "久保尋之", "長原一", "向川康博"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 第195回",
+        "booktitle": "情処研報 CVIM 195-52, 2015.1.",
+        "date": "2015-01-01"
+    },
+    {
+        "title": "2波長から計算される特徴量の逆投影による果実内糖度分布推定",
+        "author": ["岩口尭史", "久保尋之", "向川康博"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": true,
+        "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 第197回",
+        "booktitle": "情処研報 CVIM 197-28, 2015.5.",
+        "date": "2015-05-01"
+    },
+    {
+        "title": "CTと2波長特徴を用いた果実内の糖度分布推定",
+        "author": ["岩口尭史", "久保尋之", "舩冨卓哉", "向川康博"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": true,
+        "first": true,
+        "conference": "画像の認識・理解シンポジウム(MIRU2015)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2015), 2015.7.",
+        "date": "2015-07-01"
+    },
+    {
+        "title": "Light Path Alignment for Computed Tomography of Scattering Material",
+        "author": ["T. Iwaguchi", "T. Funatomi", "H. Kubo", "Y. Mukaigawa"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": true,
+        "poster": false,
+        "first": true,
+        "conference": "画像の認識・理解シンポジウム(MIRU2016)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2016), 2016.8.",
+        "award": [
+            ["MIRU学生優秀賞", "attachments/miru2016-gakusei_yushu.pdf"]
+        ],
+        "date": "2016-08-01"
+    },
+    {
+        "title": "Light Path Alignment for Computed Tomography of Scattering Material",
+        "author": ["T. Iwaguchi", "T. Funatomi", "H. Kubo", "Y. Mukaigawa"],
+        "pubtype": "jrnl",
+        "domestic": false,
+        "reviewed": true,
+        "first": true,
+        "journal": "IPSJ Transactions on Computer Vision and Applications",
+        "volume": 8,
+        "number": 1,
+        "pages": 2,
+        "media": [
+            ["Link", "http://ipsjcva.springeropen.com/articles/10.1186/s41074-016-0003-2/"]
+        ],
+        "date": "2016-08-01"
+    },
+    {
+        "title": "Evaluating Inverse Rendering of Subsurface Scattering using Translucent Spherical Object",
+        "author": ["X. Zeng", "T. Iwaguchi", "H. Kubo", "T. Funatomi", "Y. Mukaigawa"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "情報処理学会 コンピュータグラフィックスとビジュアル情報学研究会 第166回",
+        "booktitle": "情処研報CGVI 166-3, 2017.3.",
+        "date": "2017-03-01"
+    },
+    {
+        "title": "Estimating Parameters of Subsurface Scattering using Directional Dipole Model",
+        "author": ["X. Zeng", "T. Iwaguchi", "H. Kubo", "T. Funatomi", "Y. Mukaigawa"],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": false,
+        "conference": "NICOGRAPH International 2017",
+        "booktitle": "Proc. NICOGRAPH International 2017, 2017.6.",
+        "date": "2017-06-01"
+    },
+    {
+        "title": "Acquiring Short Range 4D Light Transport with Synchronized Projector Camera System",
+        "author": ["T. Iwaguchi", "H. Kubo", "T. Funatomi", "Y. Mukaigawa", "S. Narasimhan"],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": true,
+        "first": true,
+        "conference": "ACM Symposium on Virtual Reality Software and Technology (VRST) 2018",
+        "booktitle": "Proc. ACM Symposium on Virtual Reality Software and Technology (VRST) 2018.",
+        "award": [
+            ["Best Poster Award", "#"],
+            ["Cyber Agend Award (Sponser Award)", "#"]
+        ],
+        "date": "2018-11-28"
+    },
+    {
+        "title": "Parametric Light Transport Acquisition and its Application to Medical Imaging",
+        "author": ["H. Kubo", "S. Jayasuriya", "T. Iwaguchi", "T. Funatomi", "Y. Mukaigawa", "S. Narasimhan"],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "2nd International Symposium of the Research Project on Global Research Network for Healthy Society based on Collaboration Between Media Informatics and Sports Science",
+        "booktitle": "2nd International Symposium of the Research Project on Global Research Network for Healthy Society based on Collaboration Between Media Informatics and Sports Science, 2018.2.",
+        "date": "2018-02-14"
+    },
+    {
+        "title": "Acquiring and Characterizing Plane-to-Ray Indirect Light Transport",
+        "author": ["H. Kubo", "S. Jayasuriya", "T. Iwaguchi", "T. Funatomi", "Y. Mukaigawa", "S. Narasimhan"],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": false,
+        "conference": "IEEE International Conference on Computational Photography (ICCP) 2018",
+        "booktitle": "In Proc. ICCP2018, 2018.5.",
+        "date": "2018-05-04",
+        "media": [
+            ["Project", "http://omilab.naist.jp/~hkubo/content/project/P2RILT/"]
+        ]
+    },
+    {
+        "title": "エピポーラ幾何に基づくPlane-to-Rayライトトランスポートの計測と解析",
+        "author": ["久保尋之", "S. Jayasuriya", "岩口尭史", "舩冨卓哉", "向川康博", "S. Narasimhan"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": true,
+        "poster": false,
+        "first": false,
+        "conference": "Visual Computing シンポジウム 2018",
+        "booktitle": "Proc. Visual Computing シンポジウム 2018, 2018.6.",
+        "date": "2018-06-22"
+    },
+    {
+        "title": "Plane-to-Rayライトトランスポートの計測に基づく半透明物体内部のリアルタイムイメージング",
+        "author": ["久保尋之", "S. Jayasuriya", "岩口尭史", "舩冨卓哉", "向川康博", "S. Narasimhan"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2018)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2018) Extended Abstract, 2018.8.",
+        "date": "2018-08-06"
+    },
+    {
+        "title": "Optical Tomography based on Shortest-path Model for Diffuse Surface Object",
+        "author": ["T. Iwaguchi", "T. Aoto", "T. Funatomi", "H. Kubo", "Y. Mukaigawa"],
+        "pubtype": "jrnl",
+        "domestic": false,
+        "reviewed": true,
+        "first": true,
+        "journal": "IPSJ Transactions on Computer Vision and Applications",
+        "volume": 10,
+        "number": 1,
+        "pages": 15,
+        "media": [
+            ["Link", "https://ipsjcva.springeropen.com/articles/10.1186/s41074-018-0051-x"]
+        ],
+        "date": "2018-11-01"
+    },
+    {
+        "title": "奈良先端大学など、物体に反射する間接光を選択的に取得するイメージング技術を発表。皮下血管をリアルタイムによりくっきり可視化する応用など",
+        "pubtype": "media",
+        "source": "Seamless, 2019.1.21.",
+        "media": [
+            ["Link", "https://shiropen.com/seamless/acquiring-and-characterizing-plane-to-ray-indirect-light-transport"]
+        ],
+        "date": "2019-01-21"
+    },
+    {
+        "title": "直接光と間接光撮りわけ 奈良先端大が装置",
+        "pubtype": "media",
+        "source": "日刊工業新聞，2019年1月21日 28面",
+        "media": [
+            ["Link", "attachments/nikkankougyo-20190121.png"]
+        ],
+        "date": "2019-01-21"
+    },
+    {
+        "title": "Plane-to-Rayライトトランスポートを用いた血管位置の鮮明化のためのAR技術",
+        "author": ["久保尋之", "S. Jayasuriya", "岩口尭史", "舩冨卓哉", "向川康博", "S. Narasimhan"],
+        "pubtype": "general",
+        "domestic": true,
+        "reviewed": false,
+        "first": false,
+        "booktitle": "Medical Imaging Technology",
+        "volume": 37,
+        "number": 1,
+        "pages": "17-21",
+        "media": [
+            ["Link", "https://www.jstage.jst.go.jp/article/mit/37/1/37_17/_article/-char/ja"]
+        ],
+        "date": "2019-01-25"
+    }
+]
