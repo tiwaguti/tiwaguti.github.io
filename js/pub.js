@@ -52,7 +52,7 @@ function formatTable(pubs, formatName) {
 	var tableItems = pubs.map(function (item, i) {
 		// format attributes
 		var date = new Date(item.date);
-		var authors = item.author ? item.author.reduce(function (x, y) { return x + ", " + y; }) : "";
+		var authors = item.author ? item.author.join(", ") : "";
 		var media = item.media ? item.media.reduce(function (x, y) {
 			return x + `<a href=\"${y[1]}\">[${y[0]}]</a> `
 		}, "") : "";
@@ -63,13 +63,12 @@ function formatTable(pubs, formatName) {
 		// convert to html
 		var formatter = {
 			"jrnl": `<tr><td>${i + 1}.</td><td>${authors}, \"${item.title}\", ${item.journal}, Vol. ${item.volume}, Number. ${item.number}, ${item.pages}, ${date.getFullYear()}. ${award} ${media}</td></tr>`,
-			"conf": `<tr><td>${i + 1}.</td><td>${authors}, \"${item.title}\", ${item.booktitle} ${award} ${media}</td></tr>`,
-			"test": `<tr><td>aaaa</td></tr>`
+			"conf": `<tr><td>${i + 1}.</td><td>${authors}, \"${item.title}\", ${item.booktitle} ${award} ${media}</td></tr>`
 		};
 		return formatter[formatName];
 	});
 
-	return tableItems.reduce(function (x, y) { return x + y ;});
+	return tableItems.join("\n");
 }
 
 
