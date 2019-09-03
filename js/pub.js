@@ -43,12 +43,13 @@ function onLoadComplete(responseText) {
 			});
 			return rval;
 		});
-		var html = "<table>" + formatTable(filtered, elem.dataset.formatter) + "</table>";
+
+		var html = generateTable(filtered, elem.dataset.formatter);
 		elem.insertAdjacentHTML('afterbegin', html);
 	});
 }
 
-function formatTable(pubs, formatName) {
+function generateTable(pubs, formatName) {
 	var tableItems = pubs.map(function (item, i) {
 		// format attributes
 		var date = new Date(item.date);
@@ -68,7 +69,7 @@ function formatTable(pubs, formatName) {
 		return formatter[formatName];
 	});
 
-	return tableItems.join("\n");
+	return "<table>" + tableItems.join("\n") + "</table>";
 }
 
 

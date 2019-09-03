@@ -218,5 +218,17 @@
             ["Link", "https://www.jstage.jst.go.jp/article/mit/37/1/37_17/_article/-char/ja"]
         ],
         "date": "2019-01-25"
+    },
+    {
+        "title": "疎な構造化光による疎な3次元復元形状のパターン間の陰影学習による高密度化",
+        "author": ["岩口尭史", "栗田拓弥", "時枝康大", "古川亮", "川崎洋"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": true,
+        "first": true,
+        "conference": "画像の認識・理解シンポジウム(MIRU2019)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2019) Extended Abstract, 2019.8.",
+        "date": "2019-08-01"
     }
 ]
