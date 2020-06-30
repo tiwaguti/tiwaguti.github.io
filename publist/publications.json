@@ -114,7 +114,7 @@
         "booktitle": "Proc. ACM Symposium on Virtual Reality Software and Technology (VRST) 2018.",
         "award": [
             ["Best Poster Award", "#"],
-            ["Cyber Agent Award (Sponser Award)", "#"]
+            ["Cyber Agend Award (Sponser Award)", "#"]
         ],
         "date": "2018-11-28"
     },
@@ -220,6 +220,54 @@
         "date": "2019-01-25"
     },
     {
+        "title": "Light Transport Acquisition via Selective Light Path Measurement",
+        "author": ["T. Iwaguchi", "H. Kubo", "T. Funatomi", "K. Tanaka", "Y. Mukaigawa"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": true,
+        "conference": "CVIM 2019年5月研究会",
+        "booktitle": "CVIM 2019年5月研究会, 2019.5.",
+        "date": "2019-5-31"
+    },
+    {
+        "title": "パターンの最適化による複数平面への文字情報の同時投影手法",
+        "author": ["平尾勇人", "岩口尭史", "川崎洋"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": true,
+        "first": false,
+        "conference": "第24回一般社団法人情報処理学会シンポジウム インタラクション2020",
+        "booktitle": "第24回一般社団法人情報処理学会シンポジウム インタラクション2020, 2020.3.",
+        "date": "2020-3-9"
+    },
+    {
+        "title": "Development of Underwater 3D-reconstruction System using Cross-lasers-based Scanner Attached on Underwater ROV",
+        "author": ["Hanbin Wang", "Takafumi Iwaguchi", "Kodai Tokieda", "Naoki Shirakura", "Jun Takamatsu", "Hiroshi Kawasaki"],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": true,
+        "first": false,
+        "conference": "26th International Workshop on Frontiers of Computer Vision (IW-FCV2020)",
+        "booktitle": "26th International Workshop on Frontiers of Computer Vision (IW-FCV2020), 2020.2.",
+        "date": "2020-2-21"
+    },
+    {
+        "title": "Densifying Sparse Shape from Sparse Structured Light Measurement by Learning Shading",
+        "author": ["Takafumi Iwaguchi", "Kodai Tokieda", "Ryo Furukawa", "Hiroshi Kawasaki"],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": false,
+        "poster": false,
+        "first": true,
+        "conference": "Joint Workshop on Machine Perception and Robotics (MPR2019)",
+        "booktitle": "Joint Workshop on Machine Perception and Robotics (MPR2019), 2019.11.",
+        "date": "2018-11-21"
+    },
+    {
         "title": "疎な構造化光による疎な3次元復元形状のパターン間の陰影学習による高密度化",
         "author": ["岩口尭史", "栗田拓弥", "時枝康大", "古川亮", "川崎洋"],
         "pubtype": "conf",
@@ -228,7 +276,20 @@
         "poster": true,
         "first": true,
         "conference": "画像の認識・理解シンポジウム(MIRU2019)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2019) Extended Abstract, 2019.8.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2019), 2019.8.",
         "date": "2019-08-01"
+    },
+    {
+        "title": "Programmable Non-Epipolar Indirect Light Transport: Capture and Analysis",
+        "author": ["H. Kubo", "S. Jayasuriya", "T. Iwaguchi", "T. Funatomi", "Y. Mukaigawa"],
+        "pubtype": "jrnl",
+        "domestic": false,
+        "reviewed": true,
+        "first": false,
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "media": [
+            ["Link", "http://omilab.naist.jp/~hkubo/content/project/programmable-indirect-light-transport/index.html"]
+        ],
+        "date": "2019-10-01"
     }
 ]
