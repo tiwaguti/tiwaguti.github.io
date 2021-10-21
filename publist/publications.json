@@ -291,5 +291,69 @@
             ["Link", "http://omilab.naist.jp/~hkubo/content/project/programmable-indirect-light-transport/index.html"]
         ],
         "date": "2019-10-01"
+    },
+    {
+        "title": "屈折プロジェクションマッピングのためのオプティカルフローに基づく深層学習による投影パターン補正",
+        "author": ["岩口尭史", "川崎洋"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": true,
+        "poster": false,
+        "first": true,
+        "conference": "画像の認識・理解シンポジウム(MIRU2020)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2020), 2020.8.",
+        "date": "2020-8-03"
+    },
+    {
+        "title": "照度差ステレオ法とDual Photographyによる反射光フィルタリングを用いた乱反射物体表面の境界を保存した平滑な法線推定手法",
+        "author": ["木原優輝", "岩口尭史", "川崎洋"],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": true,
+        "poster": true,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2021)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2020), 2021.7.",
+        "date": "2020-7-28"
+    },
+    {
+        "title": "High-frequency Shape Recovery from Shading by CNN and Domain Adaptation",
+        "author": ["Kodai Tokieda", "Takafumi Iwaguchi", "Hiroshi Kawasaki"],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": false,
+        "conference": "2021 IEEE International Conference on Image Processing (ICIP2021)",
+        "booktitle": "Proceedings of the 2021 IEEE International Conference on Image Processing (ICIP2021)",
+        "date": "2021-9-21"
+    },
+    {
+        "title": "Self-Calibrated Dense 3D Sensor Using Multiple Cross Line Lasers Based on Light Sectioning Method and Visual Odometry",
+        "author": ["Genki Nagamatsu", "Jun Takamatsu", "Takafumi Iwaguchi", "Diego Thomas", "Hiroshi Kawasaki"],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": false,
+        "conference": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+        "booktitle": "Proceedings of the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+        "date": "2021-9-28"
+    },
+    {
+        "title": "Efficient light transport acquisition by coded illumination and robust photometric stereo by dual photography using deep neural network",
+        "author": ["Takafumi Iwaguchi", "Hiroshi Kawasaki"],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": true,
+        "conference": "3rd ICCV Workshop on Physics Based Vision meets Deep Learning (PBDL2021)",
+        "booktitle": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops",
+        "award": [
+            ["Best paper award", "attachments/miru2016-gakusei_yushu.pdf"]
+        ],
+        "pages": "1165-1173",
+        "date": "2021-10-11"
     }
 ]
