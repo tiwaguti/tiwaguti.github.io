@@ -1,7 +1,16 @@
 [
     {
         "title": "光線空間を用いた画素毎に独立したリフォーカシング",
-        "author": ["三原基", "浅田繁伸", "石原葵", "岩口尭史", "岡本貴典", "田中賢一郎", "久保尋之", "向川康博"],
+        "author": [
+            "三原基",
+            "浅田繁伸",
+            "石原葵",
+            "岩口尭史",
+            "岡本貴典",
+            "田中賢一郎",
+            "久保尋之",
+            "向川康博"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": false,
@@ -13,7 +22,14 @@
     },
     {
         "title": "光線空間を用いた不要物体除去リフォーカシング画像の生成",
-        "author": ["三原基", "岩口尭史", "田中賢一郎", "久保尋之", "長原一", "向川康博"],
+        "author": [
+            "三原基",
+            "岩口尭史",
+            "田中賢一郎",
+            "久保尋之",
+            "長原一",
+            "向川康博"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": false,
@@ -25,7 +41,11 @@
     },
     {
         "title": "2波長から計算される特徴量の逆投影による果実内糖度分布推定",
-        "author": ["岩口尭史", "久保尋之", "向川康博"],
+        "author": [
+            "岩口尭史",
+            "久保尋之",
+            "向川康博"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": false,
@@ -37,7 +57,12 @@
     },
     {
         "title": "CTと2波長特徴を用いた果実内の糖度分布推定",
-        "author": ["岩口尭史", "久保尋之", "舩冨卓哉", "向川康博"],
+        "author": [
+            "岩口尭史",
+            "久保尋之",
+            "舩冨卓哉",
+            "向川康博"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": false,
@@ -49,7 +74,12 @@
     },
     {
         "title": "Light Path Alignment for Computed Tomography of Scattering Material",
-        "author": ["T. Iwaguchi", "T. Funatomi", "H. Kubo", "Y. Mukaigawa"],
+        "author": [
+            "T. Iwaguchi",
+            "T. Funatomi",
+            "H. Kubo",
+            "Y. Mukaigawa"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": true,
@@ -58,13 +88,21 @@
         "conference": "画像の認識・理解シンポジウム(MIRU2016)",
         "booktitle": "画像の認識・理解シンポジウム(MIRU2016), 2016.8.",
         "award": [
-            ["MIRU学生優秀賞", "attachments/miru2016-gakusei_yushu.pdf"]
+            [
+                "MIRU学生優秀賞",
+                "attachments/miru2016-gakusei_yushu.pdf"
+            ]
         ],
         "date": "2016-08-01"
     },
     {
         "title": "Light Path Alignment for Computed Tomography of Scattering Material",
-        "author": ["T. Iwaguchi", "T. Funatomi", "H. Kubo", "Y. Mukaigawa"],
+        "author": [
+            "T. Iwaguchi",
+            "T. Funatomi",
+            "H. Kubo",
+            "Y. Mukaigawa"
+        ],
         "pubtype": "jrnl",
         "domestic": false,
         "reviewed": true,
@@ -74,13 +112,22 @@
         "number": 1,
         "pages": 2,
         "media": [
-            ["Link", "http://ipsjcva.springeropen.com/articles/10.1186/s41074-016-0003-2/"]
+            [
+                "Link",
+                "http://ipsjcva.springeropen.com/articles/10.1186/s41074-016-0003-2/"
+            ]
         ],
         "date": "2016-08-01"
     },
     {
         "title": "Evaluating Inverse Rendering of Subsurface Scattering using Translucent Spherical Object",
-        "author": ["X. Zeng", "T. Iwaguchi", "H. Kubo", "T. Funatomi", "Y. Mukaigawa"],
+        "author": [
+            "X. Zeng",
+            "T. Iwaguchi",
+            "H. Kubo",
+            "T. Funatomi",
+            "Y. Mukaigawa"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": false,
@@ -92,7 +139,13 @@
     },
     {
         "title": "Estimating Parameters of Subsurface Scattering using Directional Dipole Model",
-        "author": ["X. Zeng", "T. Iwaguchi", "H. Kubo", "T. Funatomi", "Y. Mukaigawa"],
+        "author": [
+            "X. Zeng",
+            "T. Iwaguchi",
+            "H. Kubo",
+            "T. Funatomi",
+            "Y. Mukaigawa"
+        ],
         "pubtype": "conf",
         "domestic": false,
         "reviewed": true,
@@ -104,7 +157,13 @@
     },
     {
         "title": "Acquiring Short Range 4D Light Transport with Synchronized Projector Camera System",
-        "author": ["T. Iwaguchi", "H. Kubo", "T. Funatomi", "Y. Mukaigawa", "S. Narasimhan"],
+        "author": [
+            "T. Iwaguchi",
+            "H. Kubo",
+            "T. Funatomi",
+            "Y. Mukaigawa",
+            "S. Narasimhan"
+        ],
         "pubtype": "conf",
         "domestic": false,
         "reviewed": true,
@@ -113,14 +172,27 @@
         "conference": "ACM Symposium on Virtual Reality Software and Technology (VRST) 2018",
         "booktitle": "Proc. ACM Symposium on Virtual Reality Software and Technology (VRST) 2018.",
         "award": [
-            ["Best Poster Award", "#"],
-            ["Cyber Agend Award (Sponser Award)", "#"]
+            [
+                "Best Poster Award",
+                "#"
+            ],
+            [
+                "Cyber Agend Award (Sponser Award)",
+                "#"
+            ]
         ],
         "date": "2018-11-28"
     },
     {
         "title": "Parametric Light Transport Acquisition and its Application to Medical Imaging",
-        "author": ["H. Kubo", "S. Jayasuriya", "T. Iwaguchi", "T. Funatomi", "Y. Mukaigawa", "S. Narasimhan"],
+        "author": [
+            "H. Kubo",
+            "S. Jayasuriya",
+            "T. Iwaguchi",
+            "T. Funatomi",
+            "Y. Mukaigawa",
+            "S. Narasimhan"
+        ],
         "pubtype": "conf",
         "domestic": false,
         "reviewed": false,
@@ -132,7 +204,14 @@
     },
     {
         "title": "Acquiring and Characterizing Plane-to-Ray Indirect Light Transport",
-        "author": ["H. Kubo", "S. Jayasuriya", "T. Iwaguchi", "T. Funatomi", "Y. Mukaigawa", "S. Narasimhan"],
+        "author": [
+            "H. Kubo",
+            "S. Jayasuriya",
+            "T. Iwaguchi",
+            "T. Funatomi",
+            "Y. Mukaigawa",
+            "S. Narasimhan"
+        ],
         "pubtype": "conf",
         "domestic": false,
         "reviewed": true,
@@ -142,12 +221,22 @@
         "booktitle": "In Proc. ICCP2018, 2018.5.",
         "date": "2018-05-04",
         "media": [
-            ["Project", "http://omilab.naist.jp/~hkubo/content/project/P2RILT/"]
+            [
+                "Project",
+                "http://omilab.naist.jp/~hkubo/content/project/P2RILT/"
+            ]
         ]
     },
     {
         "title": "エピポーラ幾何に基づくPlane-to-Rayライトトランスポートの計測と解析",
-        "author": ["久保尋之", "S. Jayasuriya", "岩口尭史", "舩冨卓哉", "向川康博", "S. Narasimhan"],
+        "author": [
+            "久保尋之",
+            "S. Jayasuriya",
+            "岩口尭史",
+            "舩冨卓哉",
+            "向川康博",
+            "S. Narasimhan"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": true,
@@ -159,7 +248,14 @@
     },
     {
         "title": "Plane-to-Rayライトトランスポートの計測に基づく半透明物体内部のリアルタイムイメージング",
-        "author": ["久保尋之", "S. Jayasuriya", "岩口尭史", "舩冨卓哉", "向川康博", "S. Narasimhan"],
+        "author": [
+            "久保尋之",
+            "S. Jayasuriya",
+            "岩口尭史",
+            "舩冨卓哉",
+            "向川康博",
+            "S. Narasimhan"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": false,
@@ -171,7 +267,13 @@
     },
     {
         "title": "Optical Tomography based on Shortest-path Model for Diffuse Surface Object",
-        "author": ["T. Iwaguchi", "T. Aoto", "T. Funatomi", "H. Kubo", "Y. Mukaigawa"],
+        "author": [
+            "T. Iwaguchi",
+            "T. Aoto",
+            "T. Funatomi",
+            "H. Kubo",
+            "Y. Mukaigawa"
+        ],
         "pubtype": "jrnl",
         "domestic": false,
         "reviewed": true,
@@ -181,7 +283,10 @@
         "number": 1,
         "pages": 15,
         "media": [
-            ["Link", "https://ipsjcva.springeropen.com/articles/10.1186/s41074-018-0051-x"]
+            [
+                "Link",
+                "https://ipsjcva.springeropen.com/articles/10.1186/s41074-018-0051-x"
+            ]
         ],
         "date": "2018-11-01"
     },
@@ -190,7 +295,10 @@
         "pubtype": "media",
         "source": "Seamless, 2019.1.21.",
         "media": [
-            ["Link", "https://shiropen.com/seamless/acquiring-and-characterizing-plane-to-ray-indirect-light-transport"]
+            [
+                "Link",
+                "https://shiropen.com/seamless/acquiring-and-characterizing-plane-to-ray-indirect-light-transport"
+            ]
         ],
         "date": "2019-01-21"
     },
@@ -199,13 +307,23 @@
         "pubtype": "media",
         "source": "日刊工業新聞，2019年1月21日 28面",
         "media": [
-            ["Link", "attachments/nikkankougyo-20190121.png"]
+            [
+                "Link",
+                "attachments/nikkankougyo-20190121.png"
+            ]
         ],
         "date": "2019-01-21"
     },
     {
         "title": "Plane-to-Rayライトトランスポートを用いた血管位置の鮮明化のためのAR技術",
-        "author": ["久保尋之", "S. Jayasuriya", "岩口尭史", "舩冨卓哉", "向川康博", "S. Narasimhan"],
+        "author": [
+            "久保尋之",
+            "S. Jayasuriya",
+            "岩口尭史",
+            "舩冨卓哉",
+            "向川康博",
+            "S. Narasimhan"
+        ],
         "pubtype": "general",
         "domestic": true,
         "reviewed": false,
@@ -215,13 +333,22 @@
         "number": 1,
         "pages": "17-21",
         "media": [
-            ["Link", "https://www.jstage.jst.go.jp/article/mit/37/1/37_17/_article/-char/ja"]
+            [
+                "Link",
+                "https://www.jstage.jst.go.jp/article/mit/37/1/37_17/_article/-char/ja"
+            ]
         ],
         "date": "2019-01-25"
     },
     {
         "title": "Light Transport Acquisition via Selective Light Path Measurement",
-        "author": ["T. Iwaguchi", "H. Kubo", "T. Funatomi", "K. Tanaka", "Y. Mukaigawa"],
+        "author": [
+            "T. Iwaguchi",
+            "H. Kubo",
+            "T. Funatomi",
+            "K. Tanaka",
+            "Y. Mukaigawa"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": false,
@@ -233,7 +360,11 @@
     },
     {
         "title": "パターンの最適化による複数平面への文字情報の同時投影手法",
-        "author": ["平尾勇人", "岩口尭史", "川崎洋"],
+        "author": [
+            "平尾勇人",
+            "岩口尭史",
+            "川崎洋"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": false,
@@ -245,7 +376,14 @@
     },
     {
         "title": "Development of Underwater 3D-reconstruction System using Cross-lasers-based Scanner Attached on Underwater ROV",
-        "author": ["Hanbin Wang", "Takafumi Iwaguchi", "Kodai Tokieda", "Naoki Shirakura", "Jun Takamatsu", "Hiroshi Kawasaki"],
+        "author": [
+            "Hanbin Wang",
+            "Takafumi Iwaguchi",
+            "Kodai Tokieda",
+            "Naoki Shirakura",
+            "Jun Takamatsu",
+            "Hiroshi Kawasaki"
+        ],
         "pubtype": "conf",
         "domestic": false,
         "reviewed": true,
@@ -257,7 +395,12 @@
     },
     {
         "title": "Densifying Sparse Shape from Sparse Structured Light Measurement by Learning Shading",
-        "author": ["Takafumi Iwaguchi", "Kodai Tokieda", "Ryo Furukawa", "Hiroshi Kawasaki"],
+        "author": [
+            "Takafumi Iwaguchi",
+            "Kodai Tokieda",
+            "Ryo Furukawa",
+            "Hiroshi Kawasaki"
+        ],
         "pubtype": "conf",
         "domestic": false,
         "reviewed": false,
@@ -269,7 +412,13 @@
     },
     {
         "title": "疎な構造化光による疎な3次元復元形状のパターン間の陰影学習による高密度化",
-        "author": ["岩口尭史", "栗田拓弥", "時枝康大", "古川亮", "川崎洋"],
+        "author": [
+            "岩口尭史",
+            "栗田拓弥",
+            "時枝康大",
+            "古川亮",
+            "川崎洋"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": false,
@@ -281,20 +430,32 @@
     },
     {
         "title": "Programmable Non-Epipolar Indirect Light Transport: Capture and Analysis",
-        "author": ["H. Kubo", "S. Jayasuriya", "T. Iwaguchi", "T. Funatomi", "Y. Mukaigawa"],
+        "author": [
+            "H. Kubo",
+            "S. Jayasuriya",
+            "T. Iwaguchi",
+            "T. Funatomi",
+            "Y. Mukaigawa"
+        ],
         "pubtype": "jrnl",
         "domestic": false,
         "reviewed": true,
         "first": false,
         "journal": "IEEE Transactions on Visualization and Computer Graphics",
         "media": [
-            ["Link", "http://omilab.naist.jp/~hkubo/content/project/programmable-indirect-light-transport/index.html"]
+            [
+                "Link",
+                "http://omilab.naist.jp/~hkubo/content/project/programmable-indirect-light-transport/index.html"
+            ]
         ],
         "date": "2019-10-01"
     },
     {
         "title": "屈折プロジェクションマッピングのためのオプティカルフローに基づく深層学習による投影パターン補正",
-        "author": ["岩口尭史", "川崎洋"],
+        "author": [
+            "岩口尭史",
+            "川崎洋"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": true,
@@ -306,19 +467,65 @@
     },
     {
         "title": "照度差ステレオ法とDual Photographyによる反射光フィルタリングを用いた乱反射物体表面の境界を保存した平滑な法線推定手法",
-        "author": ["木原優輝", "岩口尭史", "川崎洋"],
+        "author": [
+            "木原優輝",
+            "岩口尭史",
+            "川崎洋"
+        ],
         "pubtype": "conf",
         "domestic": true,
         "reviewed": true,
         "poster": true,
         "first": false,
         "conference": "画像の認識・理解シンポジウム(MIRU2021)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2020), 2021.7.",
-        "date": "2020-07-28"
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2021), 2021.7.",
+        "date": "2021-07-28"
+    },
+    {
+        "title": "Multi line-lasers ROV for underwater dense 3D shape reconstruction using marker based calibration by DNN",
+        "author": [
+            "Hanbin Wang",
+            "Genki Nagamatsu",
+            "Takafumi Iwaguchi",
+            "Naoki Shirakura",
+            "Jun Takamatsu",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": true,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2021)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2021), 2021.7.",
+        "date": "2021-07-28"
+    },
+    {
+        "title": "Hybrid technique of light sectioning method using multiple-line-lasers and visual SLAM",
+        "author": [
+            "Genki Nagamatsu",
+            "Hanbin Wang",
+            "Takafumi Iwaguchi",
+            "Naoki Shirakura",
+            "Jun Takamatsu",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": true,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2021)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2021), 2021.7.",
+        "date": "2021-07-28"
     },
     {
         "title": "High-frequency Shape Recovery from Shading by CNN and Domain Adaptation",
-        "author": ["Kodai Tokieda", "Takafumi Iwaguchi", "Hiroshi Kawasaki"],
+        "author": [
+            "Kodai Tokieda",
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki"
+        ],
         "pubtype": "conf",
         "domestic": false,
         "reviewed": true,
@@ -330,7 +537,13 @@
     },
     {
         "title": "Self-Calibrated Dense 3D Sensor Using Multiple Cross Line Lasers Based on Light Sectioning Method and Visual Odometry",
-        "author": ["Genki Nagamatsu", "Jun Takamatsu", "Takafumi Iwaguchi", "Diego Thomas", "Hiroshi Kawasaki"],
+        "author": [
+            "Genki Nagamatsu",
+            "Jun Takamatsu",
+            "Takafumi Iwaguchi",
+            "Diego Thomas",
+            "Hiroshi Kawasaki"
+        ],
         "pubtype": "conf",
         "domestic": false,
         "reviewed": true,
@@ -342,7 +555,10 @@
     },
     {
         "title": "Efficient light transport acquisition by coded illumination and robust photometric stereo by dual photography using deep neural network",
-        "author": ["Takafumi Iwaguchi", "Hiroshi Kawasaki"],
+        "author": [
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki"
+        ],
         "pubtype": "conf",
         "domestic": false,
         "reviewed": true,
@@ -351,9 +567,50 @@
         "conference": "3rd ICCV Workshop on Physics Based Vision meets Deep Learning (PBDL2021)",
         "booktitle": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops",
         "award": [
-            ["Best paper award", "attachments/PBDL2021_Best_Paper_Award_Signed.pdf"]
+            [
+                "Best paper award",
+                "attachments/PBDL2021_Best_Paper_Award_Signed.pdf"
+            ]
         ],
         "pages": "1165-1173",
         "date": "2021-10-11"
+    },
+    {
+        "title": "微分可能レンダリングによるコースティクス画像からの鏡面反射物体の形状復元",
+        "author": [
+            "岩口尭史",
+            "久保尋之",
+            "川崎洋"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": true,
+        "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 第229回",
+        "booktitle": "情処研報 CVIM 229, 2022.3.",
+        "date": "2022-03-10",
+        "award": [
+            [
+                "奨励賞",
+                ""
+            ]
+        ]
+    },
+    {
+        "title": "高周波形状復元のための微分可能レンダラーを用いたデータ拡張の最適化",
+        "author": [
+            "時枝康大",
+            "岩口尭史",
+            "川崎洋"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 第229回",
+        "booktitle": "情処研報 CVIM 229, 2022.3.",
+        "date": "2022-03-10"
     }
 ]
