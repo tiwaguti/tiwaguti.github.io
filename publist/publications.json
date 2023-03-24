@@ -612,5 +612,40 @@
         "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 第229回",
         "booktitle": "情処研報 CVIM 229, 2022.3.",
         "date": "2022-03-10"
+    },
+    {
+        "title": "AutoEnhancer: Transformer on U-Net Architecture search for Underwater Image Enhancement",
+        "author": [
+            "Tang Yi",
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki",
+            "Ryusuke Sagawa",
+            "Ryo Furukawa"
+        ],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": true,
+        "conference": "Asian Conference on Computer Vision (ACCV) (ACCV)",
+        "booktitle": "Proceedings of the Asian Conference on Computer Vision (ACCV), 2022",
+        "pages": "1403-1420",
+        "date": "2022-12-8"
+    },
+    {
+        "title": "Surface Normal Estimation From Optimized and Distributed Light Sources Using DNN-Based Photometric Stereo",
+        "author": [
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": true,
+        "conference": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+        "booktitle": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023",
+        "pages": "311-210",
+        "date": "2023-1-4"
     }
 ]
