@@ -626,7 +626,7 @@
         "domestic": false,
         "reviewed": true,
         "poster": false,
-        "first": true,
+        "first": false,
         "conference": "Asian Conference on Computer Vision (ACCV) (ACCV)",
         "booktitle": "Proceedings of the Asian Conference on Computer Vision (ACCV), 2022",
         "pages": "1403-1420",
@@ -647,5 +647,21 @@
         "booktitle": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023",
         "pages": "311-210",
         "date": "2023-1-4"
+    },
+    {
+        "title": "Random Sequence Modulation of Multiple-Gate of Indirect ToF for Handling Multi-ToF-Camera Interference",
+        "author": [
+            "Luo Wenbin",
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": false,
+        "poster": true,
+        "first": false,
+        "conference": "5th International Workshop on Image Sensors and Imaging Systems",
+        "booktitle": "Proceedings of the 5th International Workshop on Image Sensors and Imaging Systems (IWISS), 2022",
+        "date": "2022-12-12"
     }
 ]
