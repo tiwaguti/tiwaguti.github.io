@@ -474,7 +474,7 @@
         ],
         "pubtype": "conf",
         "domestic": true,
-        "reviewed": true,
+        "reviewed": false,
         "poster": true,
         "first": false,
         "conference": "画像の認識・理解シンポジウム(MIRU2021)",
@@ -663,5 +663,98 @@
         "conference": "5th International Workshop on Image Sensors and Imaging Systems",
         "booktitle": "Proceedings of the 5th International Workshop on Image Sensors and Imaging Systems (IWISS), 2022",
         "date": "2022-12-12"
+    },
+    {
+        "title": "複数の十字平面レーザを用いた3次元計測システムの移動による広範囲計測とカメラ位置姿勢の最適化手法",
+        "author": [
+            "木原優輝",
+            "池田貴希",
+            "川崎洋",
+            "岩口尭史",
+            "Diego Thomas",
+            "高松淳"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": true,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2022)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2022), 2022.7.",
+        "date": "2022-07-27"
+    },
+    {
+        "title": "音響センサによる自己位置推定と音響ソナーによる 3 次元 計測を用いた自律航行による水中SLAMシステム",
+        "author": [
+            "木原優輝",
+            "池田貴希",
+            "Tang Yi",
+            "岩口尭史",
+            "Diego Thomas",
+            "川崎洋",
+            "高松淳"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": true,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2022)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2022), 2022.7.",
+        "date": "2022-07-27"
+    },
+    {
+        "title": "Robust ToF measurement under high frequency noise by direct sequence spectrum spreading",
+        "author": [
+            "Wenbin Luo",
+            "Takafumi Iwaguchi",
+            "Hajime Nagahara",
+            "Ryusuke Sagawa",
+            "Hiroshi Kawasaki "
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": true,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2022)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2022), 2022.7.",
+        "date": "2022-07-26"
+    },
+    {
+        "title": "建築空間における人の存在が視覚的印象評価に与える影響VR技術による評価研究",
+        "author": [
+            "Kaito Toya",
+            "Diego Thomas",
+            "Yasuko Koga",
+            "Shizuo Kaji", 
+            "Hiroyuki Ochiai",
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki "
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": true,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2022)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2022), 2022.7.",
+        "date": "2022-07-28"
+    },
+    {
+        "title": " 微分可能レンダリングを用いたすりガラス越しの鏡面反射物体形状復元",
+        "author": [
+            "Takafumi Iwaguchi",
+            "Hiroyuki Kubo",
+            "Hiroshi Kawasaki "
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": true,
+        "poster": false,
+        "first": true,
+        "conference": "画像の認識・理解シンポジウム(MIRU2022)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2022), 2022.7.",
+        "date": "2022-07-26"
     }
 ]
