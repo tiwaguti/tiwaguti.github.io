@@ -770,6 +770,25 @@
         "first": false,
         "conference": "26th International Conference on Pattern Recognition (ICPR)",
         "booktitle": "In Proceedings of the 26th International Conference on Pattern Recognition (ICPR)",
-        "date": "2023-08-21"
+        "date": "2022-08-21"
+    },
+    {
+        "title": "Self-calibration of multiple-line-lasers based on coplanarity and Epipolar constraints for wide area shape scan using moving camera",
+        "author": [
+            "Genki Nagamatsu",
+            "Takaki Ikeda",
+            "Takafumi Iwaguchi",
+            "Diego Thomas",
+            "Jun Takamatsu",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": false,
+        "conference": "26th International Conference on Pattern Recognition (ICPR)",
+        "booktitle": "In Proceedings of the 26th International Conference on Pattern Recognition (ICPR)",
+        "date": "2022-08-21"
     }
 ]
