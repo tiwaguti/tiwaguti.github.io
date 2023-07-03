@@ -440,6 +440,9 @@
         "domestic": false,
         "reviewed": true,
         "first": false,
+        "volume": 27,
+        "number": 4,
+        "pages": "2421-2436",
         "journal": "IEEE Transactions on Visualization and Computer Graphics",
         "media": [
             [
@@ -447,7 +450,7 @@
                 "http://omilab.naist.jp/~hkubo/content/project/programmable-indirect-light-transport/index.html"
             ]
         ],
-        "date": "2019-10-01"
+        "date": "2019-10-21"
     },
     {
         "title": "屈折プロジェクションマッピングのためのオプティカルフローに基づく深層学習による投影パターン補正",
