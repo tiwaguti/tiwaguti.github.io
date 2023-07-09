@@ -243,7 +243,7 @@
         "poster": false,
         "first": false,
         "conference": "Visual Computing シンポジウム 2018",
-        "booktitle": "Proc. Visual Computing シンポジウム 2018, 2018.6.",
+        "booktitle": "Proc. Visual Computing シンポジウム 2018",
         "date": "2018-06-22"
     },
     {
@@ -262,7 +262,7 @@
         "poster": false,
         "first": false,
         "conference": "画像の認識・理解シンポジウム(MIRU2018)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2018) Extended Abstract, 2018.8.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2018) Extended Abstract",
         "date": "2018-08-06"
     },
     {
@@ -355,7 +355,7 @@
         "poster": false,
         "first": true,
         "conference": "CVIM 2019年5月研究会",
-        "booktitle": "CVIM 2019年5月研究会, 2019.5.",
+        "booktitle": "CVIM 2019年5月研究会",
         "date": "2019-5-31"
     },
     {
@@ -371,7 +371,7 @@
         "poster": true,
         "first": false,
         "conference": "第24回一般社団法人情報処理学会シンポジウム インタラクション2020",
-        "booktitle": "第24回一般社団法人情報処理学会シンポジウム インタラクション2020, 2020.3.",
+        "booktitle": "第24回一般社団法人情報処理学会シンポジウム インタラクション2020",
         "date": "2020-3-9"
     },
     {
@@ -389,7 +389,7 @@
         "poster": true,
         "first": false,
         "conference": "26th International Workshop on Frontiers of Computer Vision (IW-FCV2020)",
-        "booktitle": "26th International Workshop on Frontiers of Computer Vision (IW-FCV2020), 2020.2.",
+        "booktitle": "26th International Workshop on Frontiers of Computer Vision (IW-FCV2020)",
         "date": "2020-2-21"
     },
     {
@@ -406,7 +406,7 @@
         "poster": false,
         "first": true,
         "conference": "Joint Workshop on Machine Perception and Robotics (MPR2019)",
-        "booktitle": "Joint Workshop on Machine Perception and Robotics (MPR2019), 2019.11.",
+        "booktitle": "Joint Workshop on Machine Perception and Robotics (MPR2019)",
         "date": "2018-11-21"
     },
     {
@@ -424,7 +424,7 @@
         "poster": true,
         "first": true,
         "conference": "画像の認識・理解シンポジウム(MIRU2019)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2019), 2019.8.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2019)",
         "date": "2019-08-01"
     },
     {
@@ -464,7 +464,7 @@
         "poster": false,
         "first": true,
         "conference": "画像の認識・理解シンポジウム(MIRU2020)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2020), 2020.8.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2020)",
         "date": "2020-08-03"
     },
     {
@@ -480,7 +480,7 @@
         "poster": true,
         "first": false,
         "conference": "画像の認識・理解シンポジウム(MIRU2021)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2021), 2021.7.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2021)",
         "date": "2021-07-28"
     },
     {
@@ -499,7 +499,7 @@
         "poster": true,
         "first": false,
         "conference": "画像の認識・理解シンポジウム(MIRU2021)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2021), 2021.7.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2021)",
         "date": "2021-07-28"
     },
     {
@@ -518,7 +518,7 @@
         "poster": true,
         "first": false,
         "conference": "画像の認識・理解シンポジウム(MIRU2021)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2021), 2021.7.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2021)",
         "date": "2021-07-28"
     },
     {
@@ -590,7 +590,7 @@
         "poster": false,
         "first": true,
         "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 第229回",
-        "booktitle": "情処研報 CVIM 229, 2022.3.",
+        "booktitle": "情処研報 CVIM 229",
         "date": "2022-03-10",
         "award": [
             [
@@ -612,7 +612,7 @@
         "poster": false,
         "first": false,
         "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 第229回",
-        "booktitle": "情処研報 CVIM 229, 2022.3.",
+        "booktitle": "情処研報 CVIM 229",
         "date": "2022-03-10"
     },
     {
@@ -630,7 +630,7 @@
         "poster": false,
         "first": false,
         "conference": "Asian Conference on Computer Vision (ACCV) (ACCV)",
-        "booktitle": "Proceedings of the Asian Conference on Computer Vision (ACCV), 2022",
+        "booktitle": "Proceedings of the Asian Conference on Computer Vision (ACCV)",
         "pages": "1403-1420",
         "date": "2022-12-8"
     },
@@ -646,7 +646,7 @@
         "poster": false,
         "first": true,
         "conference": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
-        "booktitle": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023",
+        "booktitle": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
         "pages": "311-210",
         "date": "2023-1-4"
     },
@@ -663,7 +663,7 @@
         "poster": true,
         "first": false,
         "conference": "5th International Workshop on Image Sensors and Imaging Systems",
-        "booktitle": "Proceedings of the 5th International Workshop on Image Sensors and Imaging Systems (IWISS), 2022",
+        "booktitle": "Proceedings of the 5th International Workshop on Image Sensors and Imaging Systems (IWISS)",
         "date": "2022-12-12"
     },
     {
@@ -682,7 +682,7 @@
         "poster": true,
         "first": false,
         "conference": "画像の認識・理解シンポジウム(MIRU2022)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2022), 2022.7.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2022)",
         "date": "2022-07-27"
     },
     {
@@ -702,7 +702,7 @@
         "poster": true,
         "first": false,
         "conference": "画像の認識・理解シンポジウム(MIRU2022)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2022), 2022.7.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2022)",
         "date": "2022-07-27"
     },
     {
@@ -720,7 +720,7 @@
         "poster": true,
         "first": false,
         "conference": "画像の認識・理解シンポジウム(MIRU2022)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2022), 2022.7.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2022)",
         "date": "2022-07-26"
     },
     {
@@ -729,7 +729,7 @@
             "Kaito Toya",
             "Diego Thomas",
             "Yasuko Koga",
-            "Shizuo Kaji", 
+            "Shizuo Kaji",
             "Hiroyuki Ochiai",
             "Takafumi Iwaguchi",
             "Hiroshi Kawasaki "
@@ -740,7 +740,7 @@
         "poster": true,
         "first": false,
         "conference": "画像の認識・理解シンポジウム(MIRU2022)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2022), 2022.7.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2022)",
         "date": "2022-07-28"
     },
     {
@@ -756,7 +756,7 @@
         "poster": false,
         "first": true,
         "conference": "画像の認識・理解シンポジウム(MIRU2022)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2022), 2022.7.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2022)",
         "date": "2022-07-26"
     },
     {
