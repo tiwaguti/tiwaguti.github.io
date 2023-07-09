@@ -63,8 +63,8 @@ function generateTable(pubs, formatName) {
 
 		// convert to html
 		var formatter = {
-			"jrnl": `<tr><td>${i + 1}.</td><td>${authors}, \"${item.title}\", ${item.journal}, Vol. ${item.volume}, Number. ${item.number}, ${item.pages}, ${date.getFullYear()}. ${award} ${media}</td></tr>`,
-			"conf": `<tr><td>${i + 1}.</td><td>${authors}, \"${item.title}\", ${item.booktitle} ${award} ${media}</td></tr>`
+			"jrnl": `<tr><td>${i + 1}.</td><td>${authors}, \"${item.title}\", ${item.journal}, Vol. ${item.volume}, Number. ${item.number}, ${item.pages}, ${date.getFullYear()}.${date.getMonth()}. ${award} ${media}</td></tr>`,
+			"conf": `<tr><td>${i + 1}.</td><td>${authors}, \"${item.title}\", ${item.booktitle}, ${date.getFullYear()}.${date.getMonth()}. ${award} ${media}</td></tr>`
 		};
 		return formatter[formatName];
 	});
