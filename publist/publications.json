@@ -17,7 +17,7 @@
         "poster": false,
         "first": false,
         "conference": "平成26年 電気関係学会関西連合大会",
-        "booktitle": "電気関係学会関西連合大会, G13-7, 2014.11.",
+        "booktitle": "電気関係学会関西連合大会, G13-7",
         "date": "2014-11-01"
     },
     {
@@ -36,7 +36,7 @@
         "poster": false,
         "first": false,
         "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 第195回",
-        "booktitle": "情処研報 CVIM 195-52, 2015.1.",
+        "booktitle": "情処研報 CVIM 195-52",
         "date": "2015-01-01"
     },
     {
@@ -52,7 +52,7 @@
         "poster": false,
         "first": true,
         "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 第197回",
-        "booktitle": "情処研報 CVIM 197-28, 2015.5.",
+        "booktitle": "情処研報 CVIM 197-28",
         "date": "2015-05-01"
     },
     {
@@ -69,7 +69,7 @@
         "poster": true,
         "first": true,
         "conference": "画像の認識・理解シンポジウム(MIRU2015)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2015), 2015.7.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2015)",
         "date": "2015-07-01"
     },
     {
@@ -86,7 +86,7 @@
         "poster": false,
         "first": true,
         "conference": "画像の認識・理解シンポジウム(MIRU2016)",
-        "booktitle": "画像の認識・理解シンポジウム(MIRU2016), 2016.8.",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2016)",
         "award": [
             [
                 "MIRU学生優秀賞",
@@ -134,7 +134,7 @@
         "poster": false,
         "first": false,
         "conference": "情報処理学会 コンピュータグラフィックスとビジュアル情報学研究会 第166回",
-        "booktitle": "情処研報CGVI 166-3, 2017.3.",
+        "booktitle": "情処研報CGVI 166-3",
         "date": "2017-03-01"
     },
     {
@@ -152,7 +152,7 @@
         "poster": false,
         "first": false,
         "conference": "NICOGRAPH International 2017",
-        "booktitle": "Proc. NICOGRAPH International 2017, 2017.6.",
+        "booktitle": "Proc. NICOGRAPH International 2017",
         "date": "2017-06-01"
     },
     {
@@ -169,8 +169,8 @@
         "reviewed": true,
         "poster": true,
         "first": true,
-        "conference": "ACM Symposium on Virtual Reality Software and Technology (VRST) 2018",
-        "booktitle": "Proc. ACM Symposium on Virtual Reality Software and Technology (VRST) 2018.",
+        "conference": "ACM Symposium on Virtual Reality Software and Technology (VRST)",
+        "booktitle": "Proc. ACM Symposium on Virtual Reality Software and Technology (VRST)",
         "award": [
             [
                 "Best Poster Award",
@@ -199,7 +199,7 @@
         "poster": false,
         "first": false,
         "conference": "2nd International Symposium of the Research Project on Global Research Network for Healthy Society based on Collaboration Between Media Informatics and Sports Science",
-        "booktitle": "2nd International Symposium of the Research Project on Global Research Network for Healthy Society based on Collaboration Between Media Informatics and Sports Science, 2018.2.",
+        "booktitle": "2nd International Symposium of the Research Project on Global Research Network for Healthy Society based on Collaboration Between Media Informatics and Sports Science",
         "date": "2018-02-14"
     },
     {
@@ -217,8 +217,8 @@
         "reviewed": true,
         "poster": false,
         "first": false,
-        "conference": "IEEE International Conference on Computational Photography (ICCP) 2018",
-        "booktitle": "In Proc. ICCP2018, 2018.5.",
+        "conference": "IEEE International Conference on Computational Photography (ICCP)",
+        "booktitle": "In Proc. ICCP2018.",
         "date": "2018-05-04",
         "media": [
             [
@@ -793,5 +793,23 @@
         "conference": "26th International Conference on Pattern Recognition (ICPR)",
         "booktitle": "In Proceedings of the 26th International Conference on Pattern Recognition (ICPR)",
         "date": "2022-08-21"
+    },
+    {
+        "title": "AutoEnhancer: Search a Transformer-based Network for Underwater Image Enhancement",
+        "author": [
+            "Tang Yi",
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki",
+            "Ryusuke Sagawa",
+            "Ryo Furukawa"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 第233回",
+        "booktitle": "情処研報 CVIM 233",
+        "date": "2023-03-02"
     }
 ]
