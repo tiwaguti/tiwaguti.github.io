@@ -811,5 +811,21 @@
         "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 第233回",
         "booktitle": "情処研報 CVIM 233",
         "date": "2023-03-02"
+    },
+    {
+        "title": "Underwater Image Enhancement by Transformer-based Diffusion Model with Non-uniform Sampling for Skip Strategy",
+        "author": [
+            "Tang Yi",
+            "Hiroshi Kawasaki",
+            "Takafumi Iwaguchi"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": true,
+        "poster": false,
+        "first": false,
+        "conference": "31st ACM International Conference on Multimedia",
+        "booktitle": "Proceedings of the 31st ACM International Conference on Multimedia",
+        "date": "2023-10-27"
     }
 ]
