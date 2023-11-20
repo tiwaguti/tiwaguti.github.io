@@ -744,11 +744,11 @@
         "date": "2022-07-28"
     },
     {
-        "title": " 微分可能レンダリングを用いたすりガラス越しの鏡面反射物体形状復元",
+        "title": "微分可能レンダリングを用いたすりガラス越しの鏡面反射物体形状復元",
         "author": [
             "Takafumi Iwaguchi",
             "Hiroyuki Kubo",
-            "Hiroshi Kawasaki "
+            "Hiroshi Kawasaki"
         ],
         "pubtype": "conf",
         "domestic": true,
@@ -827,5 +827,91 @@
         "conference": "31st ACM International Conference on Multimedia",
         "booktitle": "Proceedings of the 31st ACM International Conference on Multimedia",
         "date": "2023-10-27"
+    },
+    {
+        "title": " Pseudo Random Modulation on Base-coding of I-ToF to Avoid Multi-ToF Interference",
+        "author": [
+            "Wenbin Luo",
+            "Takafumi Iwaguchi",
+            "Hajime Nagahara",
+            "Ryosuke Sagawa",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": true,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2023)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2023)",
+        "date": "2023-07-26"
+    },
+    {
+        "title": "複数の十字平面レーザとDVLを組み合わせた 広域水中SLAMにおける姿勢最適化手法",
+        "author": [
+            "池田貴希",
+            "木原優輝",
+            "Yi Tang",
+            "岩口尭史",
+            "佐藤 啓宏",
+            "Diego Thomas",
+            "川崎洋"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2023)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2023)",
+        "date": "2023-07-26"
+    },
+    {
+        "title": "分光カメラのスキャンラインと平行な照明ラインの距離に応じた表面下散乱光の選択的な獲得",
+        "author": [
+            "矢野海結",
+            "岩口尭史",
+            "川崎洋",
+            "久保尋之 "
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2023)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2023)",
+        "date": "2023-07-27"
+    },
+    {
+        "title": " 裸眼立体視ディスプレイとヘッドトラッキングを用いた自由視点立体映像の個別提示による共同作業システム",
+        "author": [
+            "武中広大",
+            "岩口尭史",
+            "川崎洋"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2023)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2023)",
+        "date": "2023-07-27"
+    },
+    {
+        "title": "近接任意光源によるDNNを用いた照度差ステレオによる法線推定",
+        "author": [
+            "岩口尭史",
+            "川崎洋"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2023)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2023)",
+        "date": "2023-07-27"
     }
 ]
