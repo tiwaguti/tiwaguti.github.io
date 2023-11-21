@@ -760,6 +760,22 @@
         "date": "2022-07-26"
     },
     {
+        "title": "Robust Calibration-marker and Laser-Line Detection for Underwater 3D Shape Reconstruction by Deep Neural Network",
+        "author": [
+            "Hanbin Wang",
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": false,
+        "conference": "2022 IEEE International Conference on Image Processing (ICIP2021)",
+        "booktitle": "In Proceedings of the 2022 IEEE International Conference on Image Processing (ICIP2021)",
+        "date": "2022-10-16"
+    },
+    {
         "title": "Auto-Augmentation with Differentiable Renderer for High-Frequency Shape Recovery",
         "author": [
             "Kodai Tokieda",
