@@ -929,5 +929,53 @@
         "conference": "画像の認識・理解シンポジウム(MIRU2023)",
         "booktitle": "画像の認識・理解シンポジウム(MIRU2023)",
         "date": "2023-07-27"
+    },
+    {
+        "title": "Specular Object Reconstruction Behind Frosted Glass by Differentiable Rendering",
+        "author": [
+            "Takafumi Iwaguchi",
+            "Hiroyuki Kubo",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": true,
+        "conference": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+        "booktitle": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+        "pages": "4035-4044",
+        "date": "2024-1-5"
+    },
+    {
+        "title": "Deep learning approach using SPECT-to-PET translation for attenuation correction in CT-less myocardial perfusion SPECT imaging",
+        "author": [
+            "Masateru Kawakubo", "Michinobu Nagao", "Yoko Kaimoto", "Risako Nakao", "Atsushi Yamamoto", "Hiroshi Kawasaki", "Takafumi Iwaguchi", "Yuka Matsuo", "Koichiro Kaneko", "Akiko Sakai", "Shuji Sakai"
+        ],
+        "pubtype": "jrnl",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": true,
+        "journal": "Annals of Nuclear Medicine",
+        "volume": 38,
+        "pages": "4035-4044",
+        "date": "2023-12-28"
+    },
+    {
+        "title": "ActiveNeuS: Neural Signed Distance Fields for Active Stereo",
+        "author": [
+            "Kazuto Ichimaru", "Takaki Ikeda", "Diego Thomas",
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": true,
+        "conference": "International Conference on 3D Vision 2024 (3DV2024)",
+        "booktitle": "Proceedings of the International Conference on 3D Vision 2024 (3DV2024)",
+        "date": "2024-3-19"
     }
 ]
