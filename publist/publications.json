@@ -1070,7 +1070,7 @@
         ],
         "pubtype": "conf",
         "domestic": false,
-        "reviewed": true,
+        "reviewed": false,
         "poster": false,
         "first": true,
         "conference": "The 109th Scientific Assembly & Annual Meeting of the RSNA",
@@ -1093,5 +1093,22 @@
         "conference": "Asian Conference on Computer Vision (ACCV) (ACCV)",
         "booktitle": "Proceedings of the Asian Conference on Computer Vision (ACCV)",
         "date": "2024-12-8"
+    },
+    {
+        "title": "Efficient Acquisition of hyper-spectral subsurfacescattering by parallel line light illumination",
+        "author": [
+            "Miyu Yano",
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki",
+            "Hiroyuki Kubo"
+        ],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": false,
+        "conference": "30th International Workshop on Frontiers of Computer Vision (IW-FCV2024) ",
+        "booktitle": "In Proc. International Workshop on Frontiers of Computer Vision (IW-FCV2024)",
+        "date": "2024-02-19"
     }
 ]
