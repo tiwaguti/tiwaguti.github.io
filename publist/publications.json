@@ -1076,5 +1076,22 @@
         "conference": "The 109th Scientific Assembly & Annual Meeting of the RSNA",
         "booktitle": "The 109th Scientific Assembly & Annual Meeting of the RSNA",
         "date": "2023-11-01"
+    },
+    {
+        "title": "Neural Active Structure-from-Motion in Dark and Textureless Environment",
+        "author": [
+            "Kazuto Ichimaru",
+            "Diego Thomas",
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": false,
+        "conference": "Asian Conference on Computer Vision (ACCV) (ACCV)",
+        "booktitle": "Proceedings of the Asian Conference on Computer Vision (ACCV)",
+        "date": "2024-12-8"
     }
 ]
