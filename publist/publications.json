@@ -1110,5 +1110,155 @@
         "conference": "30th International Workshop on Frontiers of Computer Vision (IW-FCV2024) ",
         "booktitle": "In Proc. International Workshop on Frontiers of Computer Vision (IW-FCV2024)",
         "date": "2024-02-19"
-    }
+    },
+    {
+        "title": "実コーディングカーブの歪みを利用した間接ToFカメラのマルチパス干渉回帰",
+        "author": [
+            "羅 文彬",
+            "岩口 尭史",
+            "佐川 立昌",
+            "川崎 洋"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 (CVIM)",
+        "booktitle": "情処研報 CVIM",
+        "date": "2025-01-01"
+    },
+    {
+        "title": "高周波ライン照明と分光カメラを用いたギャップ撮影による物体内部の可視化",
+        "author": [
+            "矢野 海結",
+            "岩口 尭史",
+            "川崎 洋",
+            "久保 尋之"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 (CVIM)",
+        "booktitle": "情処研報 CVIM",
+        "date": "2025-01-01"
+    },
+    {
+        "title": "Neural SDF for Shadow-aware Unsupervised Structured Light",
+        "author": [
+            "Kazuto Ichimaru",
+            "Diego Thomas",
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "情報処理学会 コンピュータビジョンとイメージメディア研究会 (CVIM)",
+        "booktitle": "情処研報 CVIM",
+        "date": "2025-01-01"
+    },
+    {
+        "title": "Neural SDF for Shadow-aware Unsupervised Structured Light",
+        "author": [
+            "Kazuto Ichimaru", "
+            "Diego Thomas", 
+            "Takafumi Iwaguchi",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": true,
+        "conference": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+        "booktitle": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+        "pages": "287-296",
+        "date": "2025-02-28"
+    },
+    {
+        "title": "Myocardial Flow Reserve Estimation from 4D-Coronary-CT using Deep Neural Network",
+        "author": [
+            "Chenxi Shen",
+            "Takafumi Iwaguchi",
+            "Masateru Kawakubo",
+            "Hiroshi Kawasaki",
+            "Shaodi You",
+            "Michinobu Nagao"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2024)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2024)",
+        "date": "2024-08-07"
+    },
+    {
+        "title": "A Practical Approach to Calibrating Cameras and Multiple Line-Lasers in Light Sectioning Systems for Underwater Application",
+        "author": [
+            "Takaki Ikeda",
+            "Heyang Gao",
+            "Yi Tang",
+            "Takafumi Iwaguchi",
+            "Diego Thomas",
+            "Yoshihiro Sato",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2024)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2024)",
+        "date": "2024-08-07"
+    },
+    {
+        "title": "Neural Active Structure-from-Motion",
+        "author": [
+            "Kazuto Ichimaru"
+            "Takaki Ikeda", 
+            "Takafumi Iwaguchi",
+            "Diego Thomas",
+            "Hiroshi Kawasaki"
+        ],
+        "pubtype": "conf",
+        "domestic": true,
+        "reviewed": false,
+        "poster": false,
+        "first": false,
+        "conference": "画像の認識・理解シンポジウム(MIRU2024)",
+        "booktitle": "画像の認識・理解シンポジウム(MIRU2024)",
+        "date": "2024-08-07"
+    },
+    {
+        "title": "Gated SPECT-derived myocardial strain estimated from deep-learning image translation validated from N-13 ammonia PET",
+        "author": [
+            "Masateru Kawakubo",
+            "Michinobu Nagao",
+            "Atsushi Yamamoto",
+            "Yoko Kaimoto",
+            "Risako Nakao",
+            "Hiroshi Kawasaki",
+            "Takafumi Iwaguchi",
+            "Akihiro Inoue",
+            "Koichiro Kaneko",
+            "Akiko Sakai",
+            "Shuji Sakai"
+        ],
+        "pubtype": "jrnl",
+        "domestic": false,
+        "reviewed": true,
+        "poster": false,
+        "first": true,
+        "journal": "Academic Radiology",
+        "pages": "4790-4800",
+        "date": "2024-12-31"
+    },
 ]
