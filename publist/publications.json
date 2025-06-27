@@ -945,7 +945,7 @@
         "conference": "IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
         "booktitle": "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
         "pages": "4035-4044",
-        "date": "2024-1-5"
+        "date": "2024-01-05"
     },
     {
         "title": "Deep learning approach using SPECT-to-PET translation for attenuation correction in CT-less myocardial perfusion SPECT imaging",
@@ -976,7 +976,7 @@
         "first": true,
         "conference": "International Conference on 3D Vision 2024 (3DV2024)",
         "booktitle": "Proceedings of the International Conference on 3D Vision 2024 (3DV2024)",
-        "date": "2024-3-19"
+        "date": "2024-03-19"
     },
     {
         "title": "Multi-path Interference Mitigation for Indirect Time-of-Flight Camera by the Distortion of Coding Curve",
@@ -1165,7 +1165,7 @@
     {
         "title": "Neural SDF for Shadow-aware Unsupervised Structured Light",
         "author": [
-            "Kazuto Ichimaru", "
+            "Kazuto Ichimaru",
             "Diego Thomas", 
             "Takafumi Iwaguchi",
             "Hiroshi Kawasaki"
